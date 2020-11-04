@@ -1,4 +1,4 @@
-module go-demo-8
+module go-demo-10
 
 go 1.12
 
